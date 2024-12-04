@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="logo.png" align="right" height="160">
+<img src="logo.png" align="right" height="100">
 
 # 河理 电器开发部
 
